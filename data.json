@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "6472bd84a87f6e3e6b67d554"
+  },
+  "name": "deal of the day",
+  "slug": "deal-of-the-day",
+  "createdAt": {
+    "$date": "2023-05-28T02:33:40.890Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T02:33:40.890Z"
+  }
+},{
+  "_id": {
+    "$oid": "6472c04f8bfab9e2790fad5d"
+  },
+  "name": "new collection",
+  "slug": "new-collection",
+  "createdAt": {
+    "$date": "2023-05-28T02:45:35.615Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T02:45:35.615Z"
+  }
+},{
+  "_id": {
+    "$oid": "6472c0798bfab9e2790fad5f"
+  },
+  "name": "disposable vape",
+  "slug": "disposable-vape",
+  "createdAt": {
+    "$date": "2023-05-28T02:46:17.360Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T02:46:17.360Z"
+  }
+},{
+  "_id": {
+    "$oid": "6472c08d8bfab9e2790fad61"
+  },
+  "name": "pod system",
+  "slug": "pod-system",
+  "createdAt": {
+    "$date": "2023-05-28T02:46:37.331Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T02:46:37.331Z"
+  }
+},{
+  "_id": {
+    "$oid": "6472c09b8bfab9e2790fad63"
+  },
+  "name": "iqos",
+  "slug": "iqos",
+  "createdAt": {
+    "$date": "2023-05-28T02:46:51.961Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T02:46:51.961Z"
+  }
+},{
+  "_id": {
+    "$oid": "6472c0a98bfab9e2790fad65"
+  },
+  "name": "e-juice",
+  "slug": "e-juice",
+  "createdAt": {
+    "$date": "2023-05-28T02:47:05.867Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T02:47:05.867Z"
+  }
+},{
+  "_id": {
+    "$oid": "6472c0b68bfab9e2790fad67"
+  },
+  "name": "coils",
+  "slug": "coils",
+  "createdAt": {
+    "$date": "2023-05-28T02:47:18.327Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T02:47:18.327Z"
+  }
+},{
+  "_id": {
+    "$oid": "6472c0be8bfab9e2790fad69"
+  },
+  "name": "atomizer",
+  "slug": "atomizer",
+  "createdAt": {
+    "$date": "2023-05-28T02:47:26.946Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T02:47:26.946Z"
+  }
+},{
+  "_id": {
+    "$oid": "6472c0c88bfab9e2790fad6b"
+  },
+  "name": "accessories",
+  "slug": "accessories",
+  "createdAt": {
+    "$date": "2023-05-28T02:47:36.633Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T02:47:36.633Z"
+  }
+},{
+  "_id": {
+    "$oid": "6472c0d98bfab9e2790fad6d"
+  },
+  "name": "special offer",
+  "slug": "special-offer",
+  "createdAt": {
+    "$date": "2023-05-28T02:47:53.408Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T02:47:53.408Z"
+  }
+},{
+  "_id": {
+    "$oid": "6472c1733fd105345c602e48"
+  },
+  "name": "uncategorized",
+  "slug": "uncategorized",
+  "createdAt": {
+    "$date": "2023-05-28T02:50:27.890Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T02:50:27.890Z"
+  }
+}]
