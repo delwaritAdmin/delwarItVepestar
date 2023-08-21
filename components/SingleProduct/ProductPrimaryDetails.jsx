@@ -57,7 +57,7 @@ export default function ProductPrimaryDetails({ data }) {
       setIsFatching(true);
 
       const response = await fetch(
-        `https://cyan-funny-binturong.cyclic.cloud/api/cart`,
+        `https://delwar-it-vepestar-livid.vercel.app/api/cart`,
         {
           method: "POST",
 

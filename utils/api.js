@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const apiClient = axios.create({
-  baseURL: "https://cyan-funny-binturong.cyclic.cloud/api", // Set your API base URL here
+  baseURL: "https://delwar-it-vepestar-livid.vercel.app/api", // Set your API base URL here
 });
 
 export const Get = async (url, config = {}) => {
