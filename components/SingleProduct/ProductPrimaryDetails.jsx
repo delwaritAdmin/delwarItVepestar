@@ -57,7 +57,7 @@ export default function ProductPrimaryDetails({ data }) {
       setIsFatching(true);
 
       const response = await fetch(
-        `https://delwar-it-vepestar-git-main-syeddelwar.vercel.app/api/cart`,
+        `delwaritvepestar-production.up.railway.app/api/cart`,
         {
           method: "POST",
 
