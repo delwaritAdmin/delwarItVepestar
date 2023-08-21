@@ -57,7 +57,7 @@ export default function ProductPrimaryDetails({ data }) {
       setIsFatching(true);
 
       const response = await fetch(
-        `delwaritvepestar-production.up.railway.app/api/cart`,
+        `https://cyan-funny-binturong.cyclic.cloud/api/cart`,
         {
           method: "POST",
 
