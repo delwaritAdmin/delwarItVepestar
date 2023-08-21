@@ -56,15 +56,18 @@ export default function ProductPrimaryDetails({ data }) {
 
       setIsFatching(true);
 
-      const response = await fetch(`https://vapestar.vercel.app/api/cart`, {
-        method: "POST",
+      const response = await fetch(
+        `https://delwar-it-vepestar-git-main-syeddelwar.vercel.app/api/cart`,
+        {
+          method: "POST",
 
-        headers: {
-          "Content-Type": "application/json",
-        },
+          headers: {
+            "Content-Type": "application/json",
+          },
 
-        body: JSON.stringify(cart),
-      });
+          body: JSON.stringify(cart),
+        }
+      );
 
       const data = await response.json();
 
