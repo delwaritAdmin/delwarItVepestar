@@ -6,7 +6,7 @@ const connectDb = async () => {
   try {
     // Define the MongoDB connection URI
     const mongoURI =
-      "mongodb+srv://vefixeb522:ZQO60P6s40jbrZDD@cluster0.cs9pz1m.mongodb.net/formmy?retryWrites=true&w=majority";
+      "mongodb+srv://acorsult:NrUdKO1n3QilLa15@cluster0.0oq6x1z.mongodb.net/vepestar?retryWrites=true&w=majority";
 
     // Connect to the MongoDB database
     await mongoose.connect(mongoURI, {
