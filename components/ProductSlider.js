@@ -68,7 +68,7 @@ function ProductSlider() {
 
               <div className="flex items-center  justify-center ">
                 <p className="text-yeollow  font-bold">
-                د.إ<span className="text-[1.3rem]">26.99</span>
+                $<span className="text-[1.3rem]">26.99</span>
                 </p>
               </div>
             </div>
@@ -96,7 +96,7 @@ function ProductSlider() {
 
               <div className="flex items-center  justify-center ">
                 <p className="text-yeollow  font-bold">
-                د.إ<span className="text-[1.3rem]">26.99</span>
+                $<span className="text-[1.3rem]">26.99</span>
                 </p>
               </div>
             </div>
@@ -125,7 +125,7 @@ function ProductSlider() {
 
               <div className="flex items-center  justify-center ">
                 <p className="text-yeollow  font-bold">
-                د.إ<span className="text-[1.3rem]">26.99</span>
+                $<span className="text-[1.3rem]">26.99</span>
                 </p>
               </div>
             </div>
@@ -153,7 +153,7 @@ function ProductSlider() {
 
               <div className="flex items-center  justify-center ">
                 <p className="text-yeollow  font-bold">
-                د.إ<span className="text-[1.3rem]">26.99</span>
+                $<span className="text-[1.3rem]">26.99</span>
                 </p>
               </div>
             </div>
@@ -181,7 +181,7 @@ function ProductSlider() {
 
               <div className="flex items-center  justify-center ">
                 <p className="text-yeollow  font-bold">
-                د.إ<span className="text-[1.3rem]">26.99</span>
+                $<span className="text-[1.3rem]">26.99</span>
                 </p>
               </div>
             </div>
@@ -211,7 +211,7 @@ function ProductSlider() {
 
               <div className="flex items-center  justify-center ">
                 <p className="text-yeollow  font-bold">
-                د.إ<span className="text-[1.3rem]">26.99</span>
+                $<span className="text-[1.3rem]">26.99</span>
                 </p>
               </div>
             </div>

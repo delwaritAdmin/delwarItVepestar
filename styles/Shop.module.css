@@ -1,5 +1,8 @@
 .discount1{
-  background-image: url("../img/home1-bg6-min-copyright.jpg");
+  background-image: url("../img/banner.jpg");
+   background-position: center;
+   background-size: cover;
+   
 }
 
 .shop1{

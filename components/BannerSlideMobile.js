@@ -37,7 +37,7 @@ function BannerSlideMobile() {
             <div className="flex justify-between items-center absolute top-2/3 left-10">
               <div className="mr-10">
                 <p className="text-white  font-eco tracking-widest uppercase text-titleSm mt-2">
-                د.إ<span className="text-[40px]">79.00</span>
+                $<span className="text-[40px]">79.00</span>
                 </p>
               </div>
               <div>
@@ -97,7 +97,7 @@ function BannerSlideMobile() {
             <div className="flex justify-between items-center absolute top-2/3 left-10">
               <div className="mr-10">
                 <p className="text-white  font-eco tracking-widest uppercase text-titleSm mt-2">
-                د.إ<span className="text-[40px]">79.00</span>
+                $<span className="text-[40px]">79.00</span>
                 </p>
               </div>
               <div>

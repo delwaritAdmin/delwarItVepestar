@@ -8,7 +8,7 @@ import { BsArrowRightShort, BsTwitter } from "react-icons/bs";
 import { FaShoppingBasket, FaTelegramPlane } from "react-icons/fa";
 import { MdClose } from "react-icons/md";
 import { TiSocialFacebookCircular } from "react-icons/ti";
-import logo from "../../img/logo.png";
+import logo from "../../img/logo.svg";
 import Search from "../Search";
 import { useSession, signOut } from "next-auth/react";
 
@@ -159,7 +159,7 @@ function Header() {
                    hidden 
                   font-eco font-bold text-[18px]"
                     >
-                      د.إ0.00 / 0 items
+                      $0.00 / 0 items
                     </span>
                   </div>
                 </Link>

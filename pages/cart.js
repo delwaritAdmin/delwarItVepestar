@@ -103,7 +103,7 @@ function cart() {
 
                     <div className="py-4   items-start">
                       <p className=" text-white">
-                        {item?.product.price * item?.quantity}د.إ
+                        {item?.product.price * item?.quantity}$
                       </p>
                     </div>
                     <div className="py-4">
@@ -119,7 +119,7 @@ function cart() {
                     </div>
                     <div className="py-4">
                       <p className=" text-white">
-                        {item?.product.price * item?.quantity}د.إ
+                        {item?.product.price * item?.quantity}$
                       </p>
                     </div>
                   </div>
@@ -174,17 +174,17 @@ function cart() {
             <div>
               <div className=" flex  justify-between text-white items-center mb-3 border-b border-gray-200 ">
                 <p>Subtotal</p>
-                <p>{SubTotal}د.إ</p>
+                <p>{SubTotal}$</p>
               </div>
               <div className=" flex  justify-between text-white items-center mb-3 border-b border-gray-200 mt-5">
                 <p>Shipping</p>
                 <p className=" capitalize">
-                  Urgent Delevary in dubai : 45.00د.إ
+                  Urgent Delevary in dubai : 45.00$
                 </p>
               </div>
               <div className=" flex  justify-between text-white items-center mb-3 ">
                 <p className=" text-primary">Total</p>
-                <p>{SubTotal + 45}د.إ</p>
+                <p>{SubTotal + 45}$</p>
               </div>
             </div>
 

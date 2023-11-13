@@ -16,7 +16,7 @@ function DisposableVape() {
   useEffect(() => {
     if (data) {
       const filteredProducts = data.filter(
-        (product) => product.category.slug === "disposable-vape"
+        (product) => product.category.slug === "mens"
       );
       setDisposableVape(filteredProducts);
     }
@@ -39,7 +39,7 @@ function DisposableVape() {
           ></div>
 
           <p className=" uppercase font-bold text-[.8rem] font-eco md:text-[1rem]  -mt-2 md:w-[22%] w-[90%]  text-center">
-            disposable Vape
+          Mens
           </p>
 
           <div className=" border-t-4  border-white w-[42%]"></div>

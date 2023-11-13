@@ -67,10 +67,10 @@ function NewCollections() {
                   <p className="text-center font-bold">{product.name}</p>
                   <div className="flex items-center text-sm py-2 justify-center space-x-3">
                     <p className="text-softGray line-through font-bold">
-                    د.إ<span className="text-[1.3rem]">{product.price}</span>
+                    $<span className="text-[1.3rem]">{product.price}</span>
                     </p>
                     <p className="text-yeollow font-bold">
-                    د.إ<span className="text-[1.3rem]">{product.price}</span>
+                    $<span className="text-[1.3rem]">{product.price}</span>
                     </p>
                   </div>
                 </div>

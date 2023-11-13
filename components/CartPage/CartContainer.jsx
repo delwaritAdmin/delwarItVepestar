@@ -27,7 +27,7 @@ export default function CartContainer() {
             </div>
           </div>
           <div className="lg:w-[19%] md:w-[19%] w-full py-6  text-[15px] px-2 text-center">
-          د.إ70.00
+          $70.00
           </div>
           <div className="lg:w-[19%] md:w-[19%] w-full py-6  text-[15px] px-2 text-center">
             <div className="relative">
@@ -53,7 +53,7 @@ export default function CartContainer() {
             </div>
           </div>
           <div className="lg:w-[19%] md:w-[19%] w-full py-6  text-[15px] px-2 text-center">
-          د.إ140.00
+          $140.00
           </div>
         </div>
 

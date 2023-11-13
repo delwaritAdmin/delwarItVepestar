@@ -87,7 +87,7 @@ function checkout() {
       const mailData = {
         email: "vapestart507@gmail.com",
         subject: "You Have a New Order",
-        message: `the order id is : ${orderId},  Order Price: ${total}د.إ, Customer Email: ${session?.user?.email}`,
+        message: `the order id is : ${orderId},  Order Price: ${total}$, Customer Email: ${session?.user?.email}`,
       };
 
       await http.httpPost("/email/sendmail", mailData);
@@ -470,7 +470,7 @@ function checkout() {
                       </div>
                       <div>
                         <h1 className=" text-white  font-bold">
-                          {data.quantity * data.product.price} د.إ
+                          {data.quantity * data.product.price} $
                         </h1>
                       </div>
                     </div>
@@ -490,7 +490,7 @@ function checkout() {
                           <p className="font-bold">
                             {" "}
                             Cash On Delivary{" "}
-                            <span className="text-primary">د.إ25</span>
+                            <span className="text-primary">$25</span>
                           </p>
                         </div>
                       </div>
@@ -502,7 +502,7 @@ function checkout() {
                         <div>
                           <p className="font-bold">
                             <span className="text-primary">
-                              {total >= 300 ? total : total + 25}د.إ
+                              {total >= 300 ? total : total + 25}$
                             </span>
                           </p>
                         </div>

@@ -31,7 +31,7 @@ function leftCart() {
                     <span className="text-[1rem]">1*</span>
                   </p>
                   <p className="text-yeollow  font-bold">
-                  د.إ<span className="text-[1rem]">26.99</span>
+                  $<span className="text-[1rem]">26.99</span>
                   </p>
                 </div>
               </div>
@@ -58,7 +58,7 @@ function leftCart() {
                     <span className="text-[1rem]">1*</span>
                   </p>
                   <p className="text-yeollow  font-bold">
-                  د.إ<span className="text-[1rem]">26.99</span>
+                  $<span className="text-[1rem]">26.99</span>
                   </p>
                 </div>
               </div>
@@ -85,7 +85,7 @@ function leftCart() {
                     <span className="text-[1rem]">1*</span>
                   </p>
                   <p className="text-yeollow  font-bold">
-                  د.إ<span className="text-[1rem]">26.99</span>
+                  $<span className="text-[1rem]">26.99</span>
                   </p>
                 </div>
               </div>

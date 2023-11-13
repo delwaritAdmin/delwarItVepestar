@@ -21,7 +21,7 @@ export default function RelatedProducts() {
             <p>DINNER LADY BLACKBERRY</p>
             <div className="flex items-center">
               <p className="text-pink-600">
-              د.إ<span className="text-[25px]">09.90</span>
+              $<span className="text-[25px]">09.90</span>
               </p>
               <div className="text-center gap-1 flex justify-center text-yellow-300 ">
                 <FaStar />
@@ -46,7 +46,7 @@ export default function RelatedProducts() {
             <p>DINNER LADY BLACKBERRY</p>
             <div className="flex items-center">
               <p className="text-pink-600">
-              د.إ<span className="text-[25px]">09.90</span>
+              $<span className="text-[25px]">09.90</span>
               </p>
               <div className="text-center gap-1 flex justify-center text-yellow-300 ">
                 <FaStar />
@@ -71,7 +71,7 @@ export default function RelatedProducts() {
             <p>DINNER LADY BLACKBERRY</p>
             <div className="flex items-center">
               <p className="text-pink-600">
-              د.إ<span className="text-[25px]">09.90</span>
+              $<span className="text-[25px]">09.90</span>
               </p>
               <div className="text-center gap-1 flex justify-center text-yellow-300 ">
                 <FaStar />
@@ -96,7 +96,7 @@ export default function RelatedProducts() {
             <p>DINNER LADY BLACKBERRY</p>
             <div className="flex items-center">
               <p className="text-pink-600">
-              د.إ<span className="text-[25px]">09.90</span>
+              $<span className="text-[25px]">09.90</span>
               </p>
               <div className="text-center gap-1 flex justify-center text-yellow-300 ">
                 <FaStar />
@@ -121,7 +121,7 @@ export default function RelatedProducts() {
             <p>DINNER LADY BLACKBERRY</p>
             <div className="flex items-center">
               <p className="text-pink-600">
-              د.إ<span className="text-[25px]">09.90</span>
+              $<span className="text-[25px]">09.90</span>
               </p>
               <div className="text-center gap-1 flex justify-center text-yellow-300 ">
                 <FaStar />

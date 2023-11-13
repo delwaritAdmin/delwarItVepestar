@@ -7,7 +7,10 @@ import http from "utils/api";
 import Image from "next/image";
 import { useQuery } from "react-query";
 import { BulletList } from "react-content-loader";
+
 import p1 from "../../../img/p1.jpg";
+
+
 import { useRouter } from "next/router";
 import { CartContext } from "@/context/cartContext";
 
@@ -136,10 +139,10 @@ function LeftSideContainer() {
 
                   <div className="flex ext-sm   space-x-3">
                     <p className="  text-softGray line-through font-bold">
-                    د.إ<span className="text-[1rem]">26.99</span>
+                    $<span className="text-[1rem]">26.99</span>
                     </p>
                     <p className="text-yeollow  font-bold">
-                    د.إ<span className="text-[1rem]">26.99</span>
+                    $<span className="text-[1rem]">26.99</span>
                     </p>
                   </div>
                 </div>
@@ -159,10 +162,10 @@ function LeftSideContainer() {
 
                   <div className="flex ext-sm   space-x-3">
                     <p className="  text-softGray line-through font-bold">
-                    د.إ<span className="text-[1rem]">26.99</span>
+                    $<span className="text-[1rem]">26.99</span>
                     </p>
                     <p className="text-yeollow  font-bold">
-                    د.إ<span className="text-[1rem]">26.99</span>
+                    $<span className="text-[1rem]">26.99</span>
                     </p>
                   </div>
                 </div>
@@ -182,10 +185,10 @@ function LeftSideContainer() {
 
                   <div className="flex ext-sm   space-x-3">
                     <p className="  text-softGray line-through font-bold">
-                    د.إ<span className="text-[1rem]">26.99</span>
+                    $<span className="text-[1rem]">26.99</span>
                     </p>
                     <p className="text-yeollow  font-bold">
-                    د.إ<span className="text-[1rem]">26.99</span>
+                    $<span className="text-[1rem]">26.99</span>
                     </p>
                   </div>
                 </div>
@@ -205,10 +208,10 @@ function LeftSideContainer() {
 
                   <div className="flex ext-sm   space-x-3">
                     <p className="  text-softGray line-through font-bold">
-                      د.إ<span className="text-[1rem]">26.99</span>
+                      $<span className="text-[1rem]">26.99</span>
                     </p>
                     <p className="text-yeollow  font-bold">
-                      د.إ<span className="text-[1rem]">26.99</span>
+                      $<span className="text-[1rem]">26.99</span>
                     </p>
                   </div>
                 </div>
@@ -253,7 +256,7 @@ function LeftSideContainer() {
                               </span>
                             </p>
                             <p className="text-yeollow  font-bold">
-                            د.إ
+                            $
                               <span className="text-[1rem]">
                                 {data?.product?.price}
                               </span>

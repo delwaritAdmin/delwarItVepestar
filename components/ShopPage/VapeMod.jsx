@@ -16,7 +16,7 @@ function VapeMod() {
   useEffect(() => {
     if (data) {
       const filteredProducts = data.filter(
-        (product) => product.category.slug === "pod-system"
+        (product) => product.category.slug === "womens"
       );
       setVapeMod(filteredProducts);
     }
@@ -38,7 +38,7 @@ function VapeMod() {
           ></div>
 
           <p className=" uppercase font-bold text-[.8rem] font-eco md:text-[1rem]  -mt-2 md:w-[22%] w-[90%]  text-center">
-            pod system
+          Womens
           </p>
 
           <div className=" border-t-4  border-white w-[42%]"></div>
@@ -65,10 +65,10 @@ function VapeMod() {
                   <p className="text-center font-bold">{product.name}</p>
                   <div className="flex items-center text-sm py-2 justify-center space-x-3">
                     <p className="text-softGray line-through font-bold">
-                    د.إ<span className="text-[1.3rem]">{product.price}</span>
+                    $<span className="text-[1.3rem]">{product.price}</span>
                     </p>
                     <p className="text-yeollow font-bold">
-                    د.إ<span className="text-[1.3rem]">{product.price}</span>
+                    $<span className="text-[1.3rem]">{product.price}</span>
                     </p>
                   </div>
                 </div>

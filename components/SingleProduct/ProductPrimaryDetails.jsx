@@ -121,10 +121,10 @@ export default function ProductPrimaryDetails({ data }) {
 
           <div className="flex items-center text-sm  mt-5  space-x-3">
             <p className="text-softGray line-through font-bold">
-              د.إ<span className="text-[1.3rem]">{data?.price}</span>
+              $<span className="text-[1.3rem]">{data?.price}</span>
             </p>
             <p className="text-primary font-bold">
-              د.إ<span className="text-[1.5rem]">{data?.price}</span>
+              $<span className="text-[1.5rem]">{data?.price}</span>
             </p>
           </div>
 
@@ -139,7 +139,7 @@ export default function ProductPrimaryDetails({ data }) {
           {/* color select dropdwon */}
 
           {/* side select dropdwon  */}
-          <p className="text-[25px] font-eco font-bold my-2">Flavour</p>
+          <p className="text-[25px] font-eco font-bold my-2">Colors</p>
           <div className="relative">
             <div>
               <Select

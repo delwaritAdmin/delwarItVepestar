@@ -9,7 +9,7 @@ export default function DiscountBanner() {
         rounded-sm
        bg-no-repeat relative min-h-[10rem] bg-center p-0  bg-cover grid place-items-center md:w-[96%]`}
     >
-      <div className="relative w-full h-full">
+      {/* <div className="relative w-full h-full">
         <div className="lg:text-center absolute lg:right-[18%] right-6 lg:top-[30%] top-[40%]  text-white lg:mx-0 bg-[#AF7FFC] lg:h-36 md:h-24 h-12 sm:w-[90%] lg:w-[66%] mx-auto">
           <p className="font-black uppercase lg:text-[80px] md:text-[50px] text-[25px] tracking-widest  lg:-mt-7 md:-mt-4 -mt-2 text-center font-bun">
             {" "}
@@ -20,7 +20,7 @@ export default function DiscountBanner() {
             </span>
           </p>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 }

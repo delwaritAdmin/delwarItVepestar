@@ -57,7 +57,7 @@ function CartElement() {
        </div>
        <div style="display:flex; justify-content: space-between; padding:2 3rem; margin:2rem 0;  ">
        <h5 style="font-weight:bold;">Amount Paid</h5>
-       <h5 style="color:#000">د.إ${ammount}</h5>
+       <h5 style="color:#000">$${ammount}</h5>
        </div>
 
     </div>`,
@@ -425,7 +425,7 @@ function CartElement() {
                             <span className="title font-bold">Price :</span>
                             <span className="data font-bold">
                               {" "}
-                              {data.total}د.إ
+                              {data.total}$
                             </span>
                           </li>
                         </ul>

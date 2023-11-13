@@ -369,7 +369,7 @@ export default function Calculator({ product }) {
             disabled
             type="text"
             placeholder="1"
-            value={`Total : د.إ${calData.total}`}
+            value={`Total : $${calData.total}`}
           />
         </div>
 
