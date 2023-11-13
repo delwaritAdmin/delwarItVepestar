@@ -57,7 +57,7 @@ export default function ProductPrimaryDetails({ data }) {
       setIsFatching(true);
 
       const response = await fetch(
-        `https://delwar-it-vepestar-livid.vercel.app/api/cart`,
+        `https://febrilife.vercel.app/api/cart`,
         {
           method: "POST",
 
